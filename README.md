@@ -27,3 +27,17 @@ I'm a Software Engineer who loves creating and sharing projects on mobile techno
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ian-damping-54b5b1141/).
 
+### Tech Stack
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="84px" src="https://kotlinlang.org/docs/images/kotlin-logo.png" /></a>
+  <!-- <a href="#"><img align="left" alt="Flutter" title="Flutter" width="84px" src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" /></a>-->
+  <br>
+  <br>
+
+  ### Github Statistic
+<p align="left">
+<a href="https://github.com/iandamping">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iandamping&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iandamping&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
